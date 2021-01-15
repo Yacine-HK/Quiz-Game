@@ -1,2 +1,1 @@
-# Quiz-Game
-Its my first quiz game project
+"#QUIZ GAME PROJECT" 

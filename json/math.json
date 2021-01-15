@@ -1,0 +1,82 @@
+[
+  {
+    "question": "How is the number 9 represented as a binary number?",
+    "right_answer": "1001",
+    "answers": [
+      "1000",
+      "1110",
+      "1010"
+    ]
+  },
+  {
+    "question": "The &#039;Squaring the Circle&#039; problem is solvable.",
+    "right_answer": "False",
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "What prime number comes next after 19?",
+    "right_answer": "23",
+    "answers": [
+      "25",
+      "21",
+      "27"
+    ]
+  },
+  {
+    "question": "What is the symbol for Displacement?",
+    "right_answer": "Δr",
+    "answers": [
+      "dr",
+      "Dp",
+      "r"
+    ]
+  },
+  {
+    "question": "The sum of any two odd integers is odd.",
+    "right_answer": "False",
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "The metric prefix &quot;atto-&quot; makes a measurement how much smaller than the base unit?",
+    "right_answer": "One Quintillionth",
+    "answers": [
+      "One Billionth",
+      "One Quadrillionth",
+      "One Septillionth"
+    ]
+  },
+  {
+    "question": "An isosceles triangle has two sides of equal length as opposed to three.",
+    "right_answer": "True",
+    "answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "A scalene triangle has two sides of equal length.",
+    "right_answer": "False",
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "How many sides does a trapezium have?",
+    "right_answer": "4",
+    "answers": [
+      "3",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "question": "An equilateral triangle always has every angle measuring 60&deg;.",
+    "right_answer": "True",
+    "answers": [
+      "False"
+    ]
+  }
+]

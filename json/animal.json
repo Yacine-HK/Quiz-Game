@@ -1,0 +1,122 @@
+[
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+    "right_answer": "Simien Jackel",
+    "answers": [
+      "Ethiopian Coyote",
+      "Amharic Fox",
+      "Canis Simiensis"
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
+    "right_answer": "Nuts",
+    "answers": [
+      "Nothing",
+      "Fruit",
+      "Seaweed"
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What color\/colour is a polar bear&#039;s skin?",
+    "right_answer": "Black",
+    "answers": [
+      "White",
+      "Pink",
+      "Green"
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What scientific family does the Aardwolf belong to?",
+    "right_answer": "Hyaenidae",
+    "answers": [
+      "Canidae",
+      "Felidae",
+      "Eupleridae"
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the scientific name of the cheetah?",
+    "right_answer": "Acinonyx jubatus",
+    "answers": [
+      "Panther onca",
+      "Lynx rufus",
+      "Felis catus"
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the Gray Wolf&#039;s scientific name?",
+    "right_answer": "Canis Lupus",
+    "answers": [
+      "Canis Aureus",
+      "Canis Latrans",
+      "Canis Lupus Lycaon"
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which class of animals are newts members of?",
+    "right_answer": "Amphibian",
+    "answers": [
+      "Fish",
+      "Reptiles",
+      "Mammals"
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the fastest animal?",
+    "right_answer": "Peregrine Falcon",
+    "answers": [
+      "Golden Eagle",
+      "Cheetah",
+      "Horsefly"
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What colour is the female blackbird?",
+    "right_answer": "Brown",
+    "answers": [
+      "Black",
+      "White",
+      "Yellow"
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What bird is born with claws on its wing digits?",
+    "right_answer": "Hoatzin",
+    "answers": [
+      "Cormorant",
+      "Cassowary",
+      "Secretary bird"
+    ]
+  }
+]
