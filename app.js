@@ -414,16 +414,3 @@ function countDown() {
                .setAttribute("stroke-dasharray", circleDasharray);
      }
 }
-
-// Count down timer
-// function contDown(duration, count) {
-//      if (current < count) {
-//           timerInterval = setInterval(() => {
-//                timer.innerHTML = `${duration}`
-//                if (--duration < 0) {
-//                     clearInterval(timerInterval)
-//                     submitBtn.click();
-//                }
-//           }, 1000)
-//      }
-// }
