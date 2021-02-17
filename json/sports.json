@@ -5,11 +5,7 @@
     "difficulty": "medium",
     "question": "At which bridge does the annual Oxford and Cambridge boat race start?",
     "right_answer": "Putney",
-    "answers": [
-      "Hammersmith",
-      "Vauxhall ",
-      "Battersea"
-    ]
+    "answers": ["Hammersmith", "Vauxhall ", "Battersea"]
   },
   {
     "category": "Sports",
@@ -17,11 +13,7 @@
     "difficulty": "easy",
     "question": "Which country will host the 2020 Summer Olympics?",
     "right_answer": "Japan",
-    "answers": [
-      "China",
-      "Australia",
-      "Germany"
-    ]
+    "answers": ["China", "Australia", "Germany"]
   },
   {
     "category": "Sports",
@@ -29,11 +21,7 @@
     "difficulty": "easy",
     "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
     "right_answer": "7 - 1",
-    "answers": [
-      "0 - 1",
-      "3 - 4",
-      "16 - 0"
-    ]
+    "answers": ["0 - 1", "3 - 4", "16 - 0"]
   },
   {
     "category": "Sports",
@@ -41,11 +29,7 @@
     "difficulty": "easy",
     "question": "Which city did the former NHL team &quot;The Nordiques&quot; originiate from?",
     "right_answer": "Quebec City",
-    "answers": [
-      "Houston",
-      "Montreal",
-      "New York"
-    ]
+    "answers": ["Houston", "Montreal", "New York"]
   },
   {
     "category": "Sports",
@@ -65,11 +49,7 @@
     "difficulty": "medium",
     "question": "How many French Open&#039;s did Bj&ouml;rn Borg win?",
     "right_answer": "6",
-    "answers": [
-      "4",
-      "9",
-      "2"
-    ]
+    "answers": ["4", "9", "2"]
   },
   {
     "category": "Sports",
@@ -77,11 +57,7 @@
     "difficulty": "medium",
     "question": "What country hosted the 2014 Winter Olympics?",
     "right_answer": "Russia",
-    "answers": [
-      "Canada",
-      "United States",
-      "Germany"
-    ]
+    "answers": ["Canada", "United States", "Germany"]
   },
   {
     "category": "Sports",
@@ -89,11 +65,7 @@
     "difficulty": "medium",
     "question": "Which NBA player has the most games played over the course of their career?",
     "right_answer": "Robert Parish",
-    "answers": [
-      "Kareem Abdul-Jabbar",
-      "Kevin Garnett",
-      "Kobe Bryant"
-    ]
+    "answers": ["Kareem Abdul-Jabbar", "Kevin Garnett", "Kobe Bryant"]
   },
   {
     "category": "Sports",
@@ -101,11 +73,7 @@
     "difficulty": "medium",
     "question": "Which basketball team has attended the most NBA grand finals?",
     "right_answer": "Los Angeles Lakers",
-    "answers": [
-      "Boston Celtics",
-      "Philadelphia 76ers",
-      "Golden State Warriors"
-    ]
+    "answers": ["Boston Celtics", "Philadelphia 76ers", "Golden State Warriors"]
   },
   {
     "category": "Sports",
@@ -113,10 +81,6 @@
     "difficulty": "medium",
     "question": "Who won the 2018 Monaco Grand Prix?",
     "right_answer": "Daniel Ricciardo",
-    "answers": [
-      "Sebastian Vettel",
-      "Kimi Raikkonen",
-      "Lewis Hamilton"
-    ]
+    "answers": ["Sebastian Vettel", "Kimi Raikkonen", "Lewis Hamilton"]
   }
 ]

@@ -54,7 +54,10 @@ function getQuestions() {
                          questionData(qObject[current], qCount);
 
                          // Shuffle function
-                         let ansKeys = Object.keys(qObject[current].answers)
+                         let allAnsKeys = qObject[current].answers
+                         allAnsKeys.push(qObject[current].right_answer)
+
+                         let ansKeys = Object.keys(allAnsKeys)
                          // Array to get just keys
                          let order = [...Array(ansKeys.length).keys()]
 
